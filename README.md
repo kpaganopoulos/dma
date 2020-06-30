@@ -79,3 +79,34 @@ On the other hand, if you are more comfortable with pandas, you are free to use 
 5. Missing data is a problem---you have to deal with it
 
 6. The question of Average Spend is subtle---Average over what, and what time-window? Which location? Resolve these to the best of your judgement.
+
+
+### Group HW 3
+### Digital Marketing Analytics
+
+(NO extensions---please start as soon as possible)
+This constitutes 20% of your total course grade
+
+There are two questions in this homework. This is a group homework.
+
+Q1. (5 points) This is based on the case “Launching W Singapore Sentoso Cove: Starwood Hotel’s digital strategy” in Section 10.2.
+After reading the case, please answer
+
+1. What goals should Chan and her team accomplish?
+2. What feeder markets should Chan choose for the digital campaign and why?
+3. If the CTR is 0.05 and the expected yield is 0.002 to 0.006 reservations, how many impressions will Chan need so as to achieve her booking goal? What will be her cost per click?
+
+Q2: (15 points)
+Attached is clickstream data from an e-commerce site. The data is anonymized and consists of
+a. Clickstream (a tab-delimited file called clickstream-feed-generated.tsv)
+The fields are as follows: clickstream_id|timestamp|IP address|url|is_purchased?|is_page_errored?|user_session_id|city|state|country
+
+Sample:
+1331799426|2012-03-15 01:17:06|2860005755985467733|4611687631188657821|99.122.210.248|http://www.acme.com/SH55126545/VD55170364|7AAB8415-E803-3C5D-7100-E362D7F67CA7|homestead|fl|usa
+b. Products and reviews codes (products.tsv)
+c. Registered users that are identifiable (regusers.tsv)
+
+Analyze the data to understand how customers behave and purchase on the site. Answer the following questions raised by the management. Management is interested in only the business side and it is your task to come up with appropriate measures that would make sense to them. Explain what you did and why.
+
+a) Are celebrity reviews significantly more influential than customer reviews? And how do they both fare against video reviews? Is there a way to capture the “bump”, in terms of revenue, of celebrity and video reviews vs. customer reviews?
+b) Is there a simple way to capture and show the customer journeys between the various elements (reviews, products)?
