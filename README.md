@@ -1,5 +1,5 @@
 # Individual HW 1
-## Digital Marketing Analytics 2019 -20 MSc BA On-campus
+## Digital Marketing Analytics 2019 - 2020 MSc BA On-campus
 This HW constitutes 20 % of your course grade.
 
 You can consult freely (internet, Help, tutorials) as well as members of your group for all programming but you should do the work by yourself. You will have to make a lot of design decisions yourself in the analysis. There is no right answer for many, but you have to write a brief explanation of why you chose what you chose to do.
